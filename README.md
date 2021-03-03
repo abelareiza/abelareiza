@@ -1,10 +1,11 @@
-## Hi there 👋, Abel Areiza
+# Abel Areiza 👋
+### Junior Front-end Developer
 ![](https://github.com/abelareiza/playlist-fy/blob/master/playlist-fy_mockup.png)
 
 I am a web development and design enthusiast. I really enjoy learning frontend-oriented frameworks and technologies like React, Vue and Svelte.
 
-Skills and experience:
-* 💻 HTML, CSS, JS
+### Skills and experience:
+* 💻 HTML, CSS, Sass, JavaScript
 * ⚛ React
 * 📱 Flutter
 

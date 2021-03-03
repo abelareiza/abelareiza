@@ -1,6 +1,6 @@
 # Abel Areiza 👋
 
-I am a web development, mobile development and design enthusiast. I really enjoy learning frontend-oriented frameworks and technologies like React, Vue and Svelte.
+I am a web developer and design enthusiast. I really enjoy learning frontend-oriented frameworks and technologies like React, Vue and Svelte.
 
 ### Skills and experience:
 * 💻 HTML, CSS, Sass

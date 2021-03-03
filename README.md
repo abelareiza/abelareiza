@@ -10,11 +10,11 @@ I am a web development, mobile development and design enthusiast. I really enjoy
 
 ### Examples of my work:
 * https://playlist-fy.surge.sh
-* <img src="https://github.com/abelareiza/playlist-fy/blob/master/playlist-fy_mockup.png" width="480">
+  <img src="https://github.com/abelareiza/playlist-fy/blob/master/playlist-fy_mockup.png" width="480">
 * https://mini-weather.surge.sh
-* <img src="https://github.com/abelareiza/mini-weather/blob/main/mini-weather_mockup.png" width="480">
+  <img src="https://github.com/abelareiza/mini-weather/blob/main/mini-weather_mockup.png" width="480">
 * https://abelareiza.github.io/batatabit
-* <img src="https://github.com/abelareiza/batatabit/blob/master/batatabit_mockup.jpg" width="480">
+  <img src="https://github.com/abelareiza/batatabit/blob/master/batatabit_mockup.jpg" width="480">
 
 - 🔭 I’m currently working on this page. 
 

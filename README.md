@@ -1,6 +1,6 @@
 # Abel Areiza 👋
 
-<img src="https://github.com/abelareiza/playlist-fy/blob/master/playlist-fy_mockup.png" width="250"> <img src="https://github.com/abelareiza/playlist-fy/blob/master/playlist-fy_mockup.png" width="250"> <img src="https://github.com/abelareiza/playlist-fy/blob/master/playlist-fy_mockup.png" width="250">
+<img src="https://github.com/abelareiza/playlist-fy/blob/master/playlist-fy_mockup.png" width="320"> <img src="https://github.com/abelareiza/mini-weather/blob/main/mini-weather_mockup.png" width="320">
 
 I am a web development, mobile development and design enthusiast. I really enjoy learning frontend-oriented frameworks and technologies like React, Vue and Svelte.
 

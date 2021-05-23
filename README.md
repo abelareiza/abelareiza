@@ -16,7 +16,7 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 * https://abelareiza.github.io/batatabit
     <img src="https://github.com/abelareiza/batatabit/blob/master/batatabit_mockup.jpg">
 
-- 🌱 I’m currently learning JavaScript, React and Svelte
+- 🌱 I’m currently learning Vue
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abelareiza&show_icons=true)
 

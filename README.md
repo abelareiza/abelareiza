@@ -6,6 +6,7 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 * 💻 HTML, CSS, Sass ⭐️⭐️⭐️⭐️
 * 🖥 JavaScript, jQuery ⭐️⭐️⭐️
 * ⚛ React ⭐️⭐️
+* 🐍 Python ⭐️⭐️
 * 📱 Flutter ⭐️⭐️⭐️
 
 ### 🌱 I’m currently learning:

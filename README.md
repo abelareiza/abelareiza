@@ -3,10 +3,15 @@
 I am a web developer and design enthusiast. I really enjoy learning frontend-oriented frameworks and technologies like React, Vue and Svelte.
 
 ### Skills and experience:
-* 💻 HTML, CSS, Sass
-* 🖥 JavaScript, jQuery
-* ⚛ React
-* 📱 Flutter
+* 💻 HTML, CSS, Sass ⭐️⭐️⭐️⭐️
+* 🖥 JavaScript, jQuery ⭐️⭐️⭐️
+* ⚛ React ⭐️⭐️
+* 📱 Flutter ⭐️⭐️⭐️
+
+- 🌱 I’m currently learning:
+* Vue
+* Tailwind CSS
+* Kotlin
 
 ### Examples of my work:
 * https://playlist-fy.surge.sh
@@ -15,8 +20,6 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
     <img src="https://github.com/abelareiza/mini-weather/blob/main/mini-weather_mockup.png">
 * https://abelareiza.github.io/batatabit
     <img src="https://github.com/abelareiza/batatabit/blob/master/batatabit_mockup.jpg">
-
-- 🌱 I’m currently learning Vue
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abelareiza&show_icons=true)
 

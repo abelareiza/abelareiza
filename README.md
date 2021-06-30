@@ -8,7 +8,7 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 * ⚛ React ⭐️⭐️
 * 📱 Flutter ⭐️⭐️⭐️
 
-- 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 * Vue
 * Tailwind CSS
 * Kotlin

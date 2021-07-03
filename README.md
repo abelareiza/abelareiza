@@ -3,11 +3,13 @@
 I am a web developer and design enthusiast. I really enjoy learning frontend-oriented frameworks and technologies like React, Vue and Svelte.
 
 ### Skills and experience:
-* 💻 HTML, CSS, Sass ⭐️⭐️⭐️⭐️
+* 💻 HTML, CSS ⭐️⭐️⭐️⭐️
+* 💻 Tailwindcss, Sass ⭐️⭐️⭐️
 * 🖥 JavaScript, jQuery ⭐️⭐️⭐️
+* 📱 Flutter ⭐️⭐️⭐️
+* 📱 Kotlin ⭐️⭐️
 * ⚛ React ⭐️⭐️
 * 🐍 Python ⭐️⭐️
-* 📱 Flutter ⭐️⭐️⭐️
 
 ### 🌱 I’m currently learning:
 * Vue

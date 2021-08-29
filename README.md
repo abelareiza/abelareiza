@@ -4,7 +4,7 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 
 ### Skills and experience:
 * 💻 HTML, CSS ⭐️⭐️⭐️⭐️
-* 💻 Tailwindcss, Sass ⭐️⭐️⭐️
+* 💻 Tailwind CSS, Scss ⭐️⭐️⭐️⭐️
 * 🖥 JavaScript, jQuery ⭐️⭐️⭐️
 * 📱 Flutter ⭐️⭐️⭐️
 * 📱 Kotlin ⭐️⭐️

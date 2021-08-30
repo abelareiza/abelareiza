@@ -17,8 +17,8 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 * Kotlin
 
 ### Examples of my work:
-* [Mercado Libre UI Clone](https://github.com/abelareiza/mercado-libre-ui-clone)
-    <img src="https://raw.githubusercontent.com/abelareiza/mercado-libre-ui-clone/master/custom/assets/mockup/ML%20UI%20Clone%20PNG.png">
+* [Mercado Libre UI Clone](https://mercadolibre-abel.surge.sh)
+    <img src="https://github.com/abelareiza/mercado-libre-ui-clone/blob/master/custom/assets/mockup/desktop-mockup.gif?raw=true">
 * https://playlist-fy.surge.sh
     <img src="https://github.com/abelareiza/playlist-fy/blob/master/playlist-fy_mockup.png">
 * https://mini-weather.surge.sh

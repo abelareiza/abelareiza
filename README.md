@@ -18,7 +18,7 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 
 ## Examples of my work:
  - #### Mercado Libre UI:
-	 - Run it at: [Mercado Libre UI Clone - site](https://mercadolibre-abel.surge.sh)
+	- Run it at: [Mercado Libre UI Clone - site](https://meli-abel.surge.sh)
 	- Source code: [Mercado Libre UI Clone - repository](https://github.com/abelareiza/mercado-libre-ui-clone)
 	<img src="https://github.com/abelareiza/mercado-libre-ui-clone/blob/master/custom/assets/mockup/desktop-mockup.gif?raw=true">
 

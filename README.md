@@ -41,6 +41,6 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelareiza)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abelareiza)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abelareiza)
+[<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='40'>](https://github.com/abelareiza)
+[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abelareiza)
 [<img src='https://img.icons8.com/color/48/000000/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/Enjuavel)  

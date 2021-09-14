@@ -17,6 +17,11 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 * Kotlin
 
 ## Examples of my work:
+ - #### Instagram UI:
+	- Run it at: [Instagram UI Clone - site](https://instagram-abel.surge.sh)
+	- Source code: [Instagram UI Clone - repository](https://github.com/abelareiza/instagram-ui-clone)
+	<img src="https://raw.githubusercontent.com/abelareiza/instagram-ui-clone/main/custom/assets/preview/instagram-preview.png">
+ 
  - #### Mercado Libre UI:
 	- Run it at: [Mercado Libre UI Clone - site](https://meli-abel.surge.sh)
 	- Source code: [Mercado Libre UI Clone - repository](https://github.com/abelareiza/mercado-libre-ui-clone)
@@ -43,4 +48,4 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 
 [<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='40'>](https://github.com/abelareiza)
 [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abelareiza)
-[<img src='https://img.icons8.com/color/48/000000/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/Enjuavel)  
+[<img src='https://img.icons8.com/color/48/000000/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/Enjuavel)

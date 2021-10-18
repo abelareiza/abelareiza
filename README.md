@@ -23,7 +23,7 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 	<img src="https://raw.githubusercontent.com/abelareiza/instagram-ui-clone/main/custom/assets/preview/instagram-preview.png">
  
  - #### Mercado Libre UI:
-	- Run it at: [Mercado Libre UI Clone - site](https://meli-abel.surge.sh)
+	- Run it at: [Mercado Libre UI Clone - site](https://abelareiza.github.io/mercado-libre-ui-clone/)
 	- Source code: [Mercado Libre UI Clone - repository](https://github.com/abelareiza/mercado-libre-ui-clone)
 	<img src="https://github.com/abelareiza/mercado-libre-ui-clone/blob/master/custom/assets/mockup/desktop-mockup.png?raw=true">
 

@@ -1,20 +1,21 @@
 # Abel Areiza
 
-I am a web developer and design enthusiast. I really enjoy learning frontend-oriented frameworks and technologies like React, Vue and Svelte.
+I am a web developer and design enthusiast. I really enjoy learning frontend-oriented frameworks and technologies.
 
 ## Skills and experience:
-* HTML & CSS ⭐️⭐️⭐️⭐️⭐️
-* Tailwind CSS ⭐️⭐️⭐️⭐️⭐️
-* Sass/Scss ⭐️⭐️⭐️⭐️⭐
-* JavaScript ⭐️⭐️⭐️
-* Flutter ⭐️⭐️⭐️
-* React ⭐️⭐️⭐️
-* Python ⭐️⭐️
+* HTML & CSS
+* Tailwind CSS
+* Sass/Scss
+* JavaScript
+* Flutter
+* React
+* Python
 
 ## 🌱 I’m currently learning:
 * JavaScript
 * React
 * Vue
+* Next JS
 
 ## Examples of my work:
  - #### Instagram UI:

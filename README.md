@@ -5,19 +5,17 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 ## Skills and experience:
 * HTML & CSS
 * Tailwind CSS
-* Sass/Scss
+* Scss
 * JavaScript
 * Flutter
 * React
+* Vue / Nuxt.js
 * Python
 
-## 🌱 I’m currently learning:
-* JavaScript
-* React
-* Vue
-* Next JS
-
 ## Examples of my work:
+ - #### Pidgin Contact Solutins:
+	- [Pidgin Website](https://instagram-abel.surge.sh](https://pidgin.com.co/)
+
  - #### Instagram UI:
 	- Run it at: [Instagram UI Clone - site](https://instagram-abel.surge.sh)
 	- Source code: [Instagram UI Clone - repository](https://github.com/abelareiza/instagram-ui-clone)
@@ -32,11 +30,6 @@ I am a web developer and design enthusiast. I really enjoy learning frontend-ori
 	- Run it at: [Playlist-fy - site](https://playlist-fy.surge.sh)
 	- Source code: [Playlist-fy - repository](https://github.com/abelareiza/playlist-fy)
 	<img src="https://github.com/abelareiza/playlist-fy/blob/master/desktop-playlist-fy.png?raw=true">
-
-- ### Mini-weather:
-	- Run it at: [mini-weather - site](https://mini-weather.surge.sh)
-	- Source code: [mini-weather - repository](https://github.com/abelareiza/mini-weather)
-	<img src="https://github.com/abelareiza/mini-weather/blob/main/desktop-mini-weather.png?raw=true">
 
 - ### Batatabit:
 	- Run it at: [Batatabit - site](https://abelareiza.github.io/batatabit/)

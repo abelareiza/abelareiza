@@ -15,7 +15,7 @@ I really enjoy learning new frontend-oriented frameworks and technologies.
 
 ## Examples of my work:
  - #### Pidgin Contact Solutins:
-	- [Pidgin Website](https://instagram-abel.surge.sh](https://pidgin.com.co/)
+	- [Pidgin Website](https://pidgin.com.co/)
 
  - #### Instagram UI:
 	- Run it at: [Instagram UI Clone - site](https://instagram-abel.surge.sh)

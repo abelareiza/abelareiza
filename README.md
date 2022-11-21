@@ -1,6 +1,7 @@
 # Abel Areiza
 
-I am a web developer and design enthusiast. I really enjoy learning frontend-oriented frameworks and technologies.
+Frontend developer and web designer.
+I really enjoy learning new frontend-oriented frameworks and technologies.
 
 ## Skills and experience:
 * HTML & CSS
